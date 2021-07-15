@@ -1,0 +1,1 @@
+the result= {'result_index': 0, 'results': [{'final': True, 'alternatives': [{'transcript': "hello my name is Holla I'm a software engineering from the university of Jeddah thank you ", 'confidence': 0.87}]}]}
